@@ -1,2 +1,2 @@
 # C-sharp-and-.NET-Framework
-MVC Web Application
+This repository contains the Car Insurance and NFL Stats project
